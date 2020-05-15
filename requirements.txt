@@ -4,9 +4,12 @@ chardet==3.0.4
 Deprecated==1.2.10
 emoji==0.5.4
 idna==2.9
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
 PyGithub==1.51
 PyJWT==1.7.1
 python-gitlab==2.2.0
+python-ldap==3.2.0
 requests==2.23.0
 urllib3==1.25.9
 wrapt==1.12.1
